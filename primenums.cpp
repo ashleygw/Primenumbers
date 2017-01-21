@@ -1,4 +1,5 @@
 //Prime number finder
+//Change for git commit
 #include "iostream"
 #include <math.h>
 #define SIZE 102400000
