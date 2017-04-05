@@ -1,2 +1,2 @@
 # Primenumbers
-asdfasdf asdf asdf asdf asdf 
+Prime number generator to experiment with C++. 
